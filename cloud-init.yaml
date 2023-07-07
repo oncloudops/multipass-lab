@@ -1,0 +1,7 @@
+users:
+  - default
+  - name: firxiao
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
+    ssh_authorized_keys:
+    - ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFBkiLnemynKf6aQgxdkHc9wa1woJRiV0JFAcDfLmU+lasVcZqsseO3JMNj05bhDZuI94WV4HowrJDSZPmIvWqs=
